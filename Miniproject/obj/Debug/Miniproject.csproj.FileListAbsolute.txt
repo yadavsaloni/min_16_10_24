@@ -1,0 +1,13 @@
+C:\Users\ASUS\documents\visual studio 2013\Projects\Miniproject\Miniproject\bin\Miniproject.dll.config
+C:\Users\ASUS\documents\visual studio 2013\Projects\Miniproject\Miniproject\bin\Miniproject.dll
+C:\Users\ASUS\documents\visual studio 2013\Projects\Miniproject\Miniproject\bin\Miniproject.pdb
+C:\Users\ASUS\documents\visual studio 2013\Projects\Miniproject\Miniproject\obj\Debug\Miniproject.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\documents\visual studio 2013\Projects\Miniproject\Miniproject\obj\Debug\Miniproject.dll
+C:\Users\ASUS\documents\visual studio 2013\Projects\Miniproject\Miniproject\obj\Debug\Miniproject.pdb
+D:\miniproject Asp.net 2023\Miniproject\bin\Miniproject.dll.config
+D:\miniproject Asp.net 2023\Miniproject\bin\Miniproject.dll
+D:\miniproject Asp.net 2023\Miniproject\bin\Miniproject.pdb
+D:\miniproject Asp.net 2023\Miniproject\obj\Debug\Miniproject.dll
+D:\miniproject Asp.net 2023\Miniproject\obj\Debug\Miniproject.pdb
+D:\miniproject Asp.net 2023\Miniproject\obj\Debug\Miniproject.csproj.AssemblyReference.cache
+D:\miniproject Asp.net 2023\Miniproject\obj\Debug\Miniproject.csproj.CoreCompileInputs.cache
